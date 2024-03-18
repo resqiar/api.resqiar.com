@@ -6,13 +6,14 @@ require (
 	github.com/alecthomas/chroma/v2 v2.8.0
 	github.com/go-playground/validator/v10 v10.14.0
 	github.com/gofiber/fiber/v2 v2.48.0
-	github.com/gofiber/storage/redis/v2 v2.0.1
+	github.com/gofiber/storage/redis/v2 v2.0.3
+	github.com/gofiber/storage/redis/v3 v3.1.1
 	github.com/imagekit-developer/imagekit-go v0.0.0-20221027035115-2e643255882a
 	github.com/jarcoal/httpmock v1.3.0
 	github.com/joho/godotenv v1.5.1
 	github.com/matoous/go-nanoid/v2 v2.0.0
 	github.com/microcosm-cc/bluemonday v1.0.25
-	github.com/stretchr/testify v1.8.4
+	github.com/stretchr/testify v1.9.0
 	github.com/yuin/goldmark v1.5.5
 	github.com/yuin/goldmark-highlighting/v2 v2.0.0-20230729083705-37449abec8cc
 	go.abhg.dev/goldmark/anchor v0.1.1
@@ -49,9 +50,9 @@ require (
 	github.com/mattn/go-runewidth v0.0.14 // indirect
 	github.com/philhofer/fwd v1.1.2 // indirect
 	github.com/pmezard/go-difflib v1.0.0 // indirect
-	github.com/redis/go-redis/v9 v9.0.4 // indirect
+	github.com/redis/go-redis/v9 v9.5.1 // indirect
 	github.com/rivo/uniseg v0.2.0 // indirect
-	github.com/stretchr/objx v0.5.0 // indirect
+	github.com/stretchr/objx v0.5.2 // indirect
 	github.com/tinylib/msgp v1.1.8 // indirect
 	github.com/valyala/bytebufferpool v1.0.0 // indirect
 	github.com/valyala/fasthttp v1.48.0 // indirect
