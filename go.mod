@@ -18,7 +18,7 @@ require (
 	go.abhg.dev/goldmark/anchor v0.1.1
 	golang.org/x/oauth2 v0.10.0
 	gorm.io/driver/postgres v1.5.0
-	gorm.io/gorm v1.25.1
+	gorm.io/gorm v1.25.9
 )
 
 require (
