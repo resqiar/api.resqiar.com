@@ -13,7 +13,7 @@ require (
 	github.com/matoous/go-nanoid/v2 v2.1.0
 	github.com/microcosm-cc/bluemonday v1.0.25
 	github.com/stretchr/testify v1.9.0
-	github.com/yuin/goldmark v1.7.4
+	github.com/yuin/goldmark v1.7.8
 	github.com/yuin/goldmark-highlighting/v2 v2.0.0-20230729083705-37449abec8cc
 	go.abhg.dev/goldmark/anchor v0.1.1
 	golang.org/x/oauth2 v0.22.0
